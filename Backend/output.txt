@@ -1,0 +1,3 @@
+Login: 200
+Transfer Failed Code: BadRequest
+Transfer Failed Body: {"tip":"Try using one of these existing test accounts: [0458530329, 0888969441]","error":"Recipient account '9999999999' was not found."}
